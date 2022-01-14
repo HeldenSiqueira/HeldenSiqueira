@@ -1,8 +1,5 @@
-#Eae! Eu sou o Helden de Siqueira
+## Eae! Eu sou o Helden de Siqueira
 
-- 🔭 Hoje sou Desenvolvedor JAVA Full stack
-- 🌱 Estudando Vue e aprimorando JAVA
-- 😄 ele/dele
 <div align="center">
   <a href="https://github.com/HeldenSiqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heldensiqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
